@@ -64,6 +64,7 @@ a {
 
 a:hover,a:active{
   color: #ff9955;
+  text-decoration: none;
 }
 
 .col-left{
@@ -208,5 +209,16 @@ input[type=number] {
 
  footer,p,h1,h2,h3,h4,h5,h6{
    color: #ccc;
+ }
+
+ .lang {
+   position: relative;
+ }
+
+ .arabic {
+   position: absolute;
+   top: 33px;
+   right: 30px;
+   color: red;
  }
 
