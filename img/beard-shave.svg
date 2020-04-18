@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="41.064117pt"
+   height="30.008993pt"
+   viewBox="0 0 41.064116 30.008994"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg8"
+   sodipodi:docname="beard-shave.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview10"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.96122328"
+     inkscape:cx="-86.943411"
+     inkscape:cy="-78.70724"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.15, written by Peter Selinger 2001-2017
+<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title></dc:title>
+  </cc:Work>
+</rdf:RDF>
+</metadata>
+  <g
+     transform="matrix(0.003253,0,0,-0.00569122,-0.26466062,34.013631)"
+     id="g6"
+     style="fill:#f9f9f9;stroke:none">
+    <path
+       d="m 2923,5966 c -148,-48 -362,-221 -474,-383 -96,-140 -165,-323 -157,-419 9,-102 13,-105 464,-315 219,-102 1227,-572 2239,-1044 2243,-1046 2148,-1002 2214,-1015 29,-5 87,-10 127,-10 85,0 138,17 313,104 63,31 124,56 137,56 13,0 45,-7 71,-16 48,-16 1237,-644 1231,-650 -10,-10 -858,-71 -1293,-94 -1108,-57 -2358,-57 -3360,0 -1000,58 -1799,147 -3198,360 -220,33 -418,60 -441,60 -100,0 -265,-61 -366,-135 C 368,2419 275,2320 227,2247 80,2026 41,1729 125,1487 c 85,-241 299,-454 525,-521 65,-20 601,-93 990,-135 1824,-200 3742,-164 5700,105 893,122 1950,326 2888,554 112,28 211,50 220,50 9,0 31,-9 48,-19 77,-47 447,-237 624,-321 557,-264 964,-394 1343,-429 114,-11 148,-4 194,41 43,42 57,92 42,153 -15,59 -58,97 -146,125 -140,47 -440,173 -626,264 -230,112 -430,227 -627,359 -203,136 -186,119 -167,164 94,220 -2,471 -208,544 -89,31 -163,34 -321,10 -78,-12 -155,-21 -172,-21 -20,0 -482,236 -1423,726 -1236,643 -1460,756 -1974,996 -319,149 -1109,517 -1755,818 -646,301 -1404,655 -1684,785 -460,214 -516,238 -570,241 -35,2 -79,-2 -103,-10 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#f9f9f9" />
+  </g>
+</svg>
