@@ -100,6 +100,10 @@ a:hover,a:active{
   fill:#ff9955;
  
 }
+.star-rateWhite {
+  fill:#fafafa;
+ 
+}
 
  /* form styling start here  */
  form {
@@ -151,6 +155,7 @@ form button[type=submit] {
   cursor: pointer;
   display: inline-block;
   height: 40px;
+  
   
 }
 #input-rating {
