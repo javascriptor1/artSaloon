@@ -10,7 +10,7 @@ html{
 
 
 .container-fluid {
-    background: url(barber-bg1.jpg) no-repeat center center fixed;
+    background: url(img/barber-bg1.jpg) no-repeat center center fixed;
     background-size: cover;
     height: auto;
     scroll-behavior: smooth;
