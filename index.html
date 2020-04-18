@@ -10,7 +10,6 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.2.0/ekko-lightbox.css" />
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" type="image/x-icon" href="img/barber-cizor-black.svg">
-
     <title>Art & Taste Barber - Dammam Alzohoor</title>
   </head>
   <body id="home">
@@ -203,10 +202,10 @@
               <br>
               <form name="rateUs" method="POST" data-netlify="true">
                 <div >
-                    <input type="text" name="name" placeholder="Your Name"  />   
-                    <input  type="number" name="mobile" placeholder="Mobile" />
-                     <input  type="number" name="rating" id="input-rating" placeholder="rating">
-                     <input type="text" name="message" placeholder="Message" style="min-height:200px;">
+                    <input type="text" name="name" placeholder="Your Name *" required />   
+                    <input  type="number" name="mobile" placeholder="Mobile *" required/>
+                     <input  type="number" name="rating" id="input-rating" placeholder="rating" required>
+                     <textarea type="text" name="message" placeholder="Message" style="min-height:200px;" autocomplete="off" rows="2" cols="20" wrap="hard"></textarea>
                     <div class="star-rating">
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg>
                       <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M12 .587l3.668 7.568 8.332 1.151-6.064 5.828 1.48 8.279-7.416-3.967-7.417 3.967 1.481-8.279-6.064-5.828 8.332-1.151z"/></svg>
