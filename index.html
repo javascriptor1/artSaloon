@@ -11,14 +11,31 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" type="image/x-icon" href="img/barber-cizor-black.svg">
     <title>Art & Taste Barber - Dammam Alzohoor</title>
+    <style>
+       .dropdown-menu {
+         background-color: transparent;
+         text-align: left;
+         float: none;
+         border: none;
+         padding-left: 10px;
+      }
+    </style>
   </head>
   <body id="home">
         <div class="container-fluid">
           <div class="container container-navbar text-center">
-            <div class="text-right pt-3 lang">
-              <span class="text-white arabic">
-                <a href="index.html">العربية</a>
-              </span>
+            <div class="text-right pt-3 lang arabic">
+              <div class="btn-group text-right">
+                <button class="btn btn-sm dropdown-toggle text-white" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <span><img src="img/saudi-flag.svg" alt=""></span>
+                </button>
+                <div class="dropdown-menu">
+                 <span><img src="img/uk-flag.svg" alt=""></span>
+                </div>
+                <div class="dropdown-menu">
+               <a href="https://artbarber.netlify.app/">   English</a>
+                 </div>
+              </div>
             </div>
            <div class="main-nav d-flex flex-row justify-content-center ">
             <nav class="navbar navbar-expand-sm ">
