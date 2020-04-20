@@ -57,4 +57,9 @@ function topFunction() {
   document.body.scrollTop = 0; // For Safari
   document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
 }
-   
+
+// LOADER 
+
+setTimeout(function() {
+  document.getElementById("loader-wrapper").style.display="none";
+}, 5000);  // 5 seconds
