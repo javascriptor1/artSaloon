@@ -234,6 +234,7 @@ input[type=number] {
   .fan {
     -webkit-animation: tracking-in-contract-bck-top 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
             animation: tracking-in-contract-bck-top 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+            animation-delay: 3s;
   }
  
  
@@ -273,6 +274,7 @@ input[type=number] {
   .hello {
     -webkit-animation: tracking-in-expand-fwd-top 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
             animation: tracking-in-expand-fwd-top 2s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+            animation-delay: 3s;
   }
 
   @-webkit-keyframes tracking-in-expand-fwd-top {
@@ -319,7 +321,7 @@ input[type=number] {
     width: 100vw;
     justify-content: center;
     align-items: center;
-    background: #212121;
+    background:linear-gradient(62deg, #3a3d40 0%, #181719 100%);
     position: absolute;
     top:0;
     left: 0;
