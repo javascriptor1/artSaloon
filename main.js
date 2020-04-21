@@ -62,4 +62,4 @@ function topFunction() {
 
 setTimeout(function() {
   document.getElementById("loader-wrapper").style.display="none";
-}, 5000);  // 5 seconds
+}, 3000);  // 5 seconds
